@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<item type="string" name="databaseVersion" format="integer">1</item>
+    <string name="app_name">Emacs Reference</string>
+    <string name="app_label">Search app</string>
+    <string name="search_hint">Search</string>
+    <string name="dismiss_dialog">Dismiss</string>
+    <string name="app_description">Emacs Cheat Sheet</string>
+    <string name="about">About</string>
+    <string name="emacs">Emacs</string>
+    <string name="dired">Dired</string>
+    <string name="gnu">Gnus</string>
+    <string name="calc">Calc</string>
+    <string name="org">Org-Mode</string>
+    <string name="vip">Vip</string>
+    <string name="viper">Viper</string>
+</resources>

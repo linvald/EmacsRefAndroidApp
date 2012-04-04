@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/emacs_id"
+          android:icon="@drawable/emacs"
+          android:title="@string/emacs" />
+     <item android:id="@+id/dired"
+          android:icon="@drawable/gnu"
+          android:title="@string/dired" />
+    <item android:id="@+id/about_id"
+          android:icon="@drawable/about_icon"
+          android:title="@string/about" />
+    
+         <item android:id="@+id/calc"
+          android:icon="@drawable/calc"
+          android:title="@string/calc" />
+          
+               <item android:id="@+id/org"
+          android:icon="@drawable/org"
+          android:title="@string/org" />
+          
+          
+               <item android:id="@+id/viper"
+          android:icon="@drawable/vim"
+          android:title="@string/viper" />      
+
+</menu>
